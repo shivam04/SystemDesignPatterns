@@ -1,0 +1,3 @@
+1. Favor composition over inheritance.
+2. HAS-A can be better than IS-A.
+3. Creating systems using composition gives you a lot more flexibility. change behavior at runtime
