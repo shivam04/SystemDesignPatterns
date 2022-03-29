@@ -1,0 +1,3 @@
+1. If the price changes for the condiments this will leads to altering the existing code.
+2. Adding new condiments will also have the same effects.
+3. We may add new beverages which force that beverage class to inherit some methods that aren't used to it.

@@ -1,0 +1,3 @@
+In addition to your coffee, you can also ask for several condiments like steamed milk, soy, and mocha (otherwise known as chocolate),
+and have it all topped off with whipped milk.
+Starbuzz(Coffee Shop) charges a bit for each of these, so they really need to get them built into their order system.

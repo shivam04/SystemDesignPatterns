@@ -1,2 +1,3 @@
 1. Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects.
-2.
+2. When you use new you are certainly instantiating a concrete class, so that’s definitely an implementation, not an interface.
+3. We've learned that tying your code to a concrete class can make it more fragile and less flexible.

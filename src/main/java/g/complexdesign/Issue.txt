@@ -1,0 +1,1 @@
+Similarly, we will create all classes combination. That's a bad design. Let's fix this.
