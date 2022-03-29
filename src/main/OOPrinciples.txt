@@ -1,0 +1,5 @@
+1. Encapsulate what varies.
+2. Favor composition over inheritance.
+3. Program to interface, not implementations.
+4. Strive for loosely coupled designs between objects that interact.
+5.

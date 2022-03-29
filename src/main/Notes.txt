@@ -1,0 +1,2 @@
+1. Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects.
+2.
