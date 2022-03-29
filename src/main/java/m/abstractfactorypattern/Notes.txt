@@ -1,0 +1,7 @@
+The Abstract Factory Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+Often the methods of an Abstract Factory are implemented as factory methods.
+
+The job of an Abstract Factory is to define an interface for creating a set of products.
+Each method in that interface is responsible for creating a concrete product,
+and we implement a subclass of the Abstract Factory to supply those implementations.
