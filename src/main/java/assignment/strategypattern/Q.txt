@@ -1,0 +1,8 @@
+Your task:
+① Arrange the classes.
+② Identify one abstract class, one interface, and eight classes.
+③ Draw arrows between classes.
+    1. Draw this kind of arrow for inheritance (“extends”).
+    2. Draw this kind of arrow for interface (“implements”).
+    3. Draw this kind of arrow for “HAS-A”.
+④ Put the method setWeapon() into the right class.
