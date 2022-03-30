@@ -1,0 +1,13 @@
+The Waitress’s job is to take Order Slips and invoke the orderUp() method on them.
+The Waitress has it easy: take an order from the customer, continue helping customers until she makes it back to the order counter,
+then invoke the orderUp() method to have the meal prepared.
+
+The Short Order Cook has the knowledge required to prepare the meal.
+The Short Order Cook is the object that really knows how to prepare meals.
+
+Once the Waitress has invoked the orderUp() method; the Short Order Cook takes over and implements all the methods that are needed to create meals.
+
+Waitress and the Cook are totally decoupled:
+the Waitress has Order Slips that encapsulate the details of the meal;
+she just calls a method on each order to get it prepared. Likewise, the Cook gets his instructions from the Order Slip;
+he never needs to directly communicate with the Waitress.

@@ -1,0 +1,4 @@
+Implementing a command to turn a light on
+Now, let’s say you want to implement a command for turning a light on.
+Referring to our set of vendor classes, the Light class has two methods: on()
+and off().

@@ -1,0 +1,6 @@
+Q. Can't I just create a class in which all methods and variables are defined as static? Wouldn't that be the same as a Singleton?
+
+A. Yes, if your class is self-contained and doesn't depend on complex initialization.
+However, because of the way static initializations are handled in Java, this can get very messy, especially if multiple classes are involved.
+Often this scenario can result in subtle, hard-to-find bugs involving order of initialization.
+Unless there is a compelling need to implement your "singleton" this way, it is far better to stay in the object world.

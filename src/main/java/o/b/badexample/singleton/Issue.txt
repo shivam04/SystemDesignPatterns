@@ -1,0 +1,5 @@
+We have two threads, each executing this code.
+Your job is to play the JVM and determine whether there is a case in which two threads might get ahold of different boiler objects.
+
+
+Fix: Our multithreading woes are almost trivially fixed by making getInstance() a synchronized method:

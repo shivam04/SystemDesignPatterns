@@ -1,0 +1,1 @@
+If two ChocolateBoiler instances get loose, some very bad things can happen.
