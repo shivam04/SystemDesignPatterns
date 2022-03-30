@@ -1,0 +1,3 @@
+Now, let’s say you’re short on Duck objects, and we'd like to use some Turkey objects in their place.
+Obviously we can’t use the turkeys outright because they have a different interface.
+So, let’s write an Adapter.

@@ -10,3 +10,6 @@
 8. No method should override an implemented method of any of its base classes.
        If you override an implemented method, then your base class wasn't really an abstraction to start with.
        Those methods implemented in the base class are meant to be shared by all your subclasses.
+9. Principle of Least Knowledge: talk only to your immediate friends.
+    It means when you are designing a system, for any object,
+    be careful of the number of classes it interacts with and also how it comes to interact with those classes.

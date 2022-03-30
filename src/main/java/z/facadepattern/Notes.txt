@@ -1,0 +1,9 @@
+A facade not only simplifies an interface, it decouples a client from a subsystem of components.
+Facades and adapters may wrap multiple classes, but a facade’s intent is to simplify, while an adapter’s is to convert the interface to something different.
+
+
+Facade Pattern, we create a class that simplifies and unifies a set of more complex classes that belong to some subsystem.
+
+
+The Facade Pattern provides a unified interface to a set of interfaces in a subsystem.
+Facade defines a higher-level interface that makes the subsystem easier to use.
