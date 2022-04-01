@@ -1,0 +1,1 @@
+NOTE: The Null Iterator another example of the Null Object "Design Pattern."

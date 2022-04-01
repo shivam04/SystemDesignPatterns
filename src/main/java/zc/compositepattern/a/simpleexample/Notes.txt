@@ -1,0 +1,1 @@
+Menus are nodes and MenuItems are leaves.
