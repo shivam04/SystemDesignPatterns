@@ -1,0 +1,4 @@
+1. First, gather your states.
+2. Next, create an instance variable to hold the current state, and define values for each of the states.
+3. Now we gather all the actions that can happen in the system.
+4. Now we create a class that acts as the state machine.
