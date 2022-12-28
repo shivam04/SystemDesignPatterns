@@ -5,7 +5,7 @@ public class BridgePatternDemo {
         Question q = new JavaQuestion();
         QuestionFormat questions = new QuestionFormat("Java Programming Language", q);
         questions.displayAll();
-        questions.delete("what is class?");
+        questions.delete("What is class?");
         questions.display();
         questions.newOne("What is inheritance?");
         questions.newOne("How many types of inheritance are there in java?");
